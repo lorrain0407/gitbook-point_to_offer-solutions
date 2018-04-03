@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    "-lunr", "-search", "search-pro", "-highlight", "prism"
+  ],
+  "pluginsConfig": {
+    "prism": {
+      "css": [
+        "prismjs/themes/prism-okaidia.css"
+      ],
+      "ignore": [
+        "lang-text",
+        "text"
+      ]
+    }
+  }
+}
