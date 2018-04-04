@@ -10,4 +10,6 @@
 
 	* [1.2 反转链表](solutions/ReverseList.md)
 
+	* [1.3 合并两个排序的链表](solutions/Merge.md)
+
 ---
