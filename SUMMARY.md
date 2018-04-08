@@ -12,4 +12,6 @@
 
 	* [1.3 合并两个排序的链表](solutions/Merge.md)
 
+	* [1.4 链表中倒数第k个结点](solutions/FindKthToTail.md)
+
 ---
