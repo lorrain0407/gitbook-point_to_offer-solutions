@@ -1,0 +1,18 @@
+.markdown-section pre {
+    background: #fff;
+    border: 1px solid #ccc;
+    line-height: 1.2;
+}
+
+.markdown-section :not(pre) > code {
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+    padding: 2px 4px;
+    font-size: 90%;
+}
+
+pre[class*="language-"] {
+    background: #272822;
+    border: none;
+}
