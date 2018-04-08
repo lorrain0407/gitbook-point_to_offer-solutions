@@ -14,4 +14,6 @@
 
 	* [1.4 链表中倒数第k个结点](solutions/FindKthToTail.md)
 
+	* [1.5 复杂链表的复制](solutions/CloneRandomList.md)
+
 ---

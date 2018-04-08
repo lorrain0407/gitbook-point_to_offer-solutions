@@ -1,8 +1,11 @@
 {
   "plugins": [
-    "-lunr", "-search", "search-pro", "-highlight", "prism", "github", "editlink", "splitter"
+    "github", "-lunr", "-search", "search-pro", "-highlight", "prism", "splitter"
   ],
   "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/lorrain0407/gitbook-point_to_offer-solutions"
+    },
     "prism": {
       "css": [
         "prismjs/themes/prism-okaidia.css"
@@ -11,13 +14,6 @@
         "lang-text",
         "text"
       ]
-    },
-    "github": {
-      "url": "https://github.com/lorrain0407/gitbook-point_to_offer-solutions"
-    },
-    "editlink": {
-      "base": "https://liulin1.gitbooks.io/gitbook-point_to_offer-solutions/content",
-      "label": "编辑本页"
     }
   }
 }
