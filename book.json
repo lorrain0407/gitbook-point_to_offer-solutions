@@ -1,6 +1,6 @@
 {
   "plugins": [
-    "-lunr", "-search", "search-pro", "-highlight", "prism"
+    "-lunr", "-search", "search-pro", "-highlight", "prism", "github", "editlink", "splitter"
   ],
   "pluginsConfig": {
     "prism": {
@@ -11,6 +11,13 @@
         "lang-text",
         "text"
       ]
+    },
+    "github": {
+      "url": "https://github.com/lorrain0407/gitbook-point_to_offer-solutions"
+    },
+    "editlink": {
+      "base": "https://liulin1.gitbooks.io/gitbook-point_to_offer-solutions/content",
+      "label": "编辑本页"
     }
   }
 }
