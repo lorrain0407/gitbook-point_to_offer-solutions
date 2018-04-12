@@ -16,4 +16,10 @@
 
 	* [1.5 复杂链表的复制](solutions/CloneRandomList.md)
 
+	* [1.6 两个链表的第一个公共结点](solutions/FindFirstCommonNode.md)
+
+* [2 随便刷的题](solutions/aboutThisPart.md)
+
+	* [2.1 翻转数组](solutions/ReverseArry.md)
+
 ---
