@@ -22,4 +22,10 @@
 
 	* [2.1 翻转数组](solutions/ReverseArry.md)
 
+* [3 临时抱佛脚刷一遍课程](solutions/aboutThisCourse.md)
+
+	* [3.1 经典排序的实现以及时空复杂度分析](solutions/Sort1.md)
+
+	* [3.2 排序相关题目](solutions/Sort2.md)
+
 ---
